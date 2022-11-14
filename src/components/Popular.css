@@ -1,0 +1,16 @@
+.Wrapper{
+    margin: 4rem 0rem;
+}
+
+
+
+.Card{
+    min-height:25rem;
+border-radius:2rem;
+overflow:hidden
+}
+
+
+.Card img{
+    border-radius:2rem;
+};
